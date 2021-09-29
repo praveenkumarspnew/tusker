@@ -1,3 +1,5 @@
 python is easy
 
 chicken added
+beans
+pizza
